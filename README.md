@@ -23,3 +23,5 @@ This framework is based on the research published at BrainlyTech and is cited in
 
 ---
 *Disclaimer: This is an active research project. For full technical audits, visit our AI & Security Lab.*
+
+To cite this research, use the following DOI: 10.5281/zenodo.18674239.
